@@ -1,0 +1,19 @@
+{
+  "twilio": {
+    "account_sid": "AC0dddc74f9a425bb1003e302daac8b94f",
+    "auth_token": "gAAAAABopvA1GmyE6-VLZbaIvylAm3_wtPll_5uc4mypKqGdTAuTCtB24xgaEdbRqJnfqV2li3gSPegxiEAQvekbOYv8EUB6l3O8kANEDeC2zAcyqtyfPrFP9na1yyuP78HhX6N5vsOG",
+    "from_phone_number": "+15513683290",
+    "is_configured": true,
+    "last_updated": "2025-08-21T15:38:53.933772"
+  },
+  "emergency_contacts": [
+    {
+      "contact_id": "contact_1",
+      "name": "Primary Emergency Contact",
+      "phone_number": "+18319612060",
+      "priority": 1,
+      "is_active": true,
+      "created_date": "2025-08-21T15:23:55.013126"
+    }
+  ]
+}
