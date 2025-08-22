@@ -12,3 +12,4 @@ plotly>=5.17.0
 fpdf
 fpdf2
 pillow
+kaleido
